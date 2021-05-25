@@ -60,7 +60,7 @@ int main ( int argc, char **argv ) {
  *            getDir - use the findSpace function
  *            for every file found.  
  *            remove space from the name.
- *            
+ *           more stuff 
  *            rename the files.
  *            after iteration use closedir
 */
